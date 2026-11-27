@@ -1,0 +1,19 @@
+# 900573
+
+Ward-Beck Systems job **900573**, 1990\|23 (console).
+
+In the archive: [1990-1999/900573](https://wardbecksystems.github.io/WBSps.ca/2026/Consoles/1990-1999/900573/index.html)
+
+Photos, scans, PDFs and drawings are here with their notes (`.md`: date, origin and the text read from each page).
+
+## 8 files
+
+- [1990 - 900573 - DOC - 900573-04-001 - MASTER CLOCK SYSTEM (traced).dxf](1990%20-%20900573%20-%20DOC%20-%20900573-04-001%20-%20MASTER%20CLOCK%20SYSTEM%20%28traced%29.dxf)
+- [1990 - 900573 - DOC - 900573-04-001 - MASTER CLOCK SYSTEM (traced).json](1990%20-%20900573%20-%20DOC%20-%20900573-04-001%20-%20MASTER%20CLOCK%20SYSTEM%20%28traced%29.json)
+- [1990 - 900573 - DOC - 900573-04-001 - MASTER CLOCK SYSTEM.jpg](1990%20-%20900573%20-%20DOC%20-%20900573-04-001%20-%20MASTER%20CLOCK%20SYSTEM.jpg)
+- [1990 - 900573-04-001 - MASTER CLOCK SYSTEM - DRN GEB - ENG GEB - ISS 1 (traced).dxf](1990%20-%20900573-04-001%20-%20MASTER%20CLOCK%20SYSTEM%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.dxf)
+- [1990 - 900573-04-001 - MASTER CLOCK SYSTEM - DRN GEB - ENG GEB - ISS 1 (traced).json](1990%20-%20900573-04-001%20-%20MASTER%20CLOCK%20SYSTEM%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201%20%28traced%29.json)
+- [1990 - 900573-04-001 - MASTER CLOCK SYSTEM - DRN GEB - ENG GEB - ISS 1.jpg](1990%20-%20900573-04-001%20-%20MASTER%20CLOCK%20SYSTEM%20-%20DRN%20GEB%20-%20ENG%20GEB%20-%20ISS%201.jpg)
+
+---
+© Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca) · archive by Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
